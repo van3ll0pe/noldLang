@@ -91,6 +91,9 @@ while(i < 10) {
 }
 ```
 
+the word `break` allows you to exit the loop
+the word `loop` is similar to continue in c
+
 statement
 ```
 if (condition) {
